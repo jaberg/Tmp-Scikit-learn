@@ -88,6 +88,40 @@ communication and lower the barrier of entry to the project.
 
 .. [#] Past sprints https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints
 
+
+Goals of the Sprint
+===================
+
+**integration with scikits-data**:
+`scikit-data <http://https://github.com/jaberg/scikits.data>`_,
+is a new project focused on improving the foundation
+for handling diverse, large datasets in Python. There are two aspects to that
+project:
+1. consolidating the logic of downloading, unpacking, and parsing a
+   variety of standard public datasets used in e.g. machine learning, computer
+   vision, natural language processing, financial forecasting;
+
+2. providing standard code and/or techniques for turning those datasets into
+   standard kinds of machine learning problems (e.g. classification, regression)
+   and passing those to learning algorithms in scikits-learn.
+
+Currently `scikit-data` is being developed independently from `scikit-learn` by
+authors in the USA and Canada, and the NIPS conference presents a unique
+opportunity for the developers of these two projects to meet face to face and
+discuss design issues.
+
+**scaling to deal with large datasets**:
+Online learning, and large dataset learning represent interface and algorithm
+engineering challenges. Learning algorithms for large datasets have matured
+considerably over the last few years thanks to tremendous interest in data
+mining in text and user databases.  The NIPS conference will host a workshop
+just prior to the proposed coding sprint on `Big Learning<http://biglearn.org/>`_.
+API suggestions for dealing with large data sets have been on the table for a
+long time, and a sprint would do wonders for getting the ball rolling on
+actually implementing some of those ideas, and providing scikits with scalable
+algorithms particularly for clustering and classification.
+
+
 Granada sprint organization
 ============================
 
