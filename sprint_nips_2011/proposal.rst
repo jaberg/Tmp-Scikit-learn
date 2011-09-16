@@ -116,7 +116,7 @@ Online learning, and large dataset learning represent interface and algorithm
 engineering challenges. Learning algorithms for large datasets have matured
 considerably over the last few years thanks to tremendous interest in data
 mining in text and user databases.  The NIPS conference will host a workshop
-just prior to the proposed coding sprint on `Big Learning<http://biglearn.org/>`_.
+just prior to the proposed coding sprint on `Big Learning <http://biglearn.org/>`_.
 API suggestions for dealing with large data sets have been on the table for a
 long time, and a sprint would do wonders for getting the ball rolling on
 actually implementing some of those ideas, and providing scikits with scalable
