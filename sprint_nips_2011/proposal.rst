@@ -97,13 +97,14 @@ Goals of the Sprint
 is a new project focused on improving the foundation
 for handling diverse, large datasets in Python. There are two aspects to that
 project:
-1. consolidating the logic of downloading, unpacking, and parsing a
-   variety of standard public datasets used in e.g. machine learning, computer
-   vision, natural language processing, financial forecasting;
 
-2. providing standard code and/or techniques for turning those datasets into
-   standard kinds of machine learning problems (e.g. classification, regression)
-   and passing those to learning algorithms in scikits-learn.
+ 1. consolidating the logic of downloading, unpacking, and parsing a
+    variety of standard public datasets used in e.g. machine learning, computer
+    vision, natural language processing, financial forecasting;
+
+ 2. providing standard code and/or techniques for turning those datasets into
+    standard kinds of machine learning problems (e.g. classification, regression)
+    and passing those to learning algorithms in scikits-learn.
 
 Currently `scikit-data` is being developed independently from `scikit-learn` by
 authors in the USA and Canada, and the NIPS conference presents a unique
