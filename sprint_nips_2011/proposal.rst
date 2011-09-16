@@ -92,7 +92,7 @@ communication and lower the barrier of entry to the project.
 Goals of the Sprint
 ===================
 
-**integration with scikits-data**:
+**Integration with scikits-data**:
 `scikit-data <http://https://github.com/jaberg/scikits.data>`_,
 is a new project focused on improving the foundation
 for handling diverse, large datasets in Python. There are two aspects to that
@@ -111,7 +111,7 @@ authors in the USA and Canada, and the NIPS conference presents a unique
 opportunity for the developers of these two projects to meet face to face and
 discuss design issues.
 
-**scaling to deal with large datasets**:
+**Scaling to large datasets**:
 Online learning, and large dataset learning represent interface and algorithm
 engineering challenges. Learning algorithms for large datasets have matured
 considerably over the last few years thanks to tremendous interest in data
